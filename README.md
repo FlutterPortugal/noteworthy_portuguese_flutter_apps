@@ -12,6 +12,7 @@ All portuguese made or for the country applications made with Flutter.
 ## Enterprises 
 
 | Name  | Type | Website | 
+| ------------- | ------------- | ------------- |
 | GIRA. Bicicletas de Lisboa  | iOS, Android  | [https://www.gira-bicicletasdelisboa.pt/](https://www.gira-bicicletasdelisboa.pt/)  |
 | NOS NET  | iOS, Android  | [https://nosnet.pt/](https://nosnet.pt/)  |
 | Miio  | iOS, Android  | [https://www.miio.pt/](https://www.miio.pt/)  |
@@ -21,5 +22,6 @@ All portuguese made or for the country applications made with Flutter.
 
 ## Portuguese Community
 | Name  | Type | Website | 
+| ------------- | ------------- | ------------- |
 | -  | -  | []()  |
 
