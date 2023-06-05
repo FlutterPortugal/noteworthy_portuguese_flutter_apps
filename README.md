@@ -1,6 +1,6 @@
 # Noteworthy Portuguese Flutter Apps
 
-All portuguese made or for the country applications made with Flutter.
+Applications made with Flutter for or made in Portugal.
 
 ## Government
 
