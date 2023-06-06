@@ -39,6 +39,11 @@ Applications made with Flutter for or made in Portugal.
 | My CUF   | [iOS](https://apps.apple.com/pt/app/my-cuf/id811304952), [Android](https://play.google.com/store/apps/details?id=pt.saudecuf.myCUF)  | [https://www.cuf.pt/](https://www.cuf.pt)  |✅ | ✅ |-| 
 | -  | -  | [-]()  | ✅ ❌ ❓ | ✅ ❌ ❓  |- |
 
+## Finance
+| Name  | Type | Website | Flutter Shark | Scroll Test |Other | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
+| Inveester  | [iOS](https://apps.apple.com/us/app/inveester-stock-dividend/id1623194396), [Android](https://play.google.com/store/apps/details?id=com.inveester.app)  | [https://inveester.com/](https://inveester.com/) | ✅ | ✅ |-|
+
 ## Portuguese Community
 | Name  | Type | Website | Flutter Shark | Scroll Test |Other | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
