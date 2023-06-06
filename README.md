@@ -38,3 +38,18 @@ Applications made with Flutter for or made in Portugal.
 | ------------- | ------------- | ------------- |
 | -  | -  | []()  |
 
+
+# How to identify a Flutter App
+
+When an app is listed in this directory it should be tested true for the following:
+
+1. The app is identified by [Flutter Shark App](https://play.google.com/store/apps/details?id=com.fluttershark.fluttersharkapp). 
+     - Note this may lead to false positives.
+2. Tested the app against the multi-finger swipe https://github.com/flutter/flutter/issues/11884
+
+OR
+
+- You participated in the development of the app.
+- The app is of your authorship.
+
+
