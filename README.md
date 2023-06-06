@@ -36,7 +36,7 @@ Applications made with Flutter for or made in Portugal.
 ## Health
 | Name  | Type | Website | Flutter Shark | Scroll Test | Other | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| My CUF   | [iOS](https://apps.apple.com/pt/app/my-cuf/id811304952), [Android](https://play.google.com/store/apps/details?id=pt.saudecuf.myCUF)  | [https://www.cuf.pt/](https://www.cuf.pt)  |❓ | ✅ |-| 
+| My CUF   | [iOS](https://apps.apple.com/pt/app/my-cuf/id811304952), [Android](https://play.google.com/store/apps/details?id=pt.saudecuf.myCUF)  | [https://www.cuf.pt/](https://www.cuf.pt)  |✅ | ✅ |-| 
 | -  | -  | [-]()  | ✅ ❌ ❓ | ✅ ❌ ❓  |- |
 
 ## Portuguese Community
