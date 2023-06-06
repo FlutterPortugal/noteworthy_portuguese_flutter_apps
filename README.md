@@ -7,7 +7,7 @@ Applications made with Flutter for or made in Portugal.
 | Name  | Type | Website | 
 | ------------- | ------------- | ------------- |
 | id.gov.pt  | iOS, Android  | [https://id.gov.pt/](https://id.gov.pt/)  |
-| IRS 2022  | iOS, Android  | [https://irs.portaldasfinancas.gov.pt](https://irs.portaldasfinancas.gov.pt)  |
+| IRS 2022  | iOS, [Android](https://play.google.com/store/search?q=IRS%202022&c=apps)  | [https://irs.portaldasfinancas.gov.pt](https://irs.portaldasfinancas.gov.pt)  |
 | -  | -  | - |
 
 ## Enterprises 
