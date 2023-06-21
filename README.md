@@ -37,6 +37,7 @@ Applications made with Flutter for or made in Portugal.
 | Name  | Type | Website | Flutter Shark | Scroll Test | Other | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | My CUF   | [iOS](https://apps.apple.com/pt/app/my-cuf/id811304952), [Android](https://play.google.com/store/apps/details?id=pt.saudecuf.myCUF)  | [https://www.cuf.pt/](https://www.cuf.pt)  |✅ | ✅ |-| 
+| Libra   | [iOS](https://apps.apple.com/pt/app/libra-weight-manager/id1644353761), [Android](https://play.google.com/store/apps/details?id=net.cachapa.libra)  | [https://libra-app.eu](https://libra-app.eu)  |✅ | ✅ |-| 
 | -  | -  | [-]()  | ✅ ❌ ❓ | ✅ ❌ ❓  |- |
 
 ## Finance
