@@ -49,7 +49,7 @@ Applications made with Flutter for or made in Portugal.
 | Name  | Type | Website | Flutter Shark | Scroll Test |Other | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | 21DaysChallenge  | Life  | [https://21dayschallengeapp.com/](https://21dayschallengeapp.com/) | ✅ | ✅  |-|
-| -  | -  | [-]() | ✅ ❌ ❓ | ✅ ❌ ❓  |-|
+| -  | -  | [iOS](https://play.google.com/store/apps/details?id=com.limatech.dayschallenge.dayschallenge), [Android](https://play.google.com/store/apps/details?id=com.limatech.dayschallenge.dayschallenge) | ✅ ❌ ❓ | ✅ ❌ ❓  |-|
 
 
 # How to identify a Flutter App
