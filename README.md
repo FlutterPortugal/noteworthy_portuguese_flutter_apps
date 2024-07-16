@@ -19,6 +19,7 @@ Applications made with Flutter for or made in Portugal.
 | Miio  | iOS, Android  | [https://www.miio.pt/](https://www.miio.pt/)  || ||
 | EMEL ePark  | iOS, Android  | [https://www.emel.pt/](https://www.emel.pt/pt/onde-estacionar/via-publica/meios-de-pagamento/epark/)  || || 
 | Cartão Staples  | -  | [https://www.staples.pt/](https://www.staples.pt/pt/pt/cartao-staples) || || 
+| Continente Plug&Charge  | -  | [https://plugcharge.continente.pt/](https://www.continente.pt/servicos/plug-and-charge/) || || 
 | -  | -  | [-]() | ✅ ❌ ❓ | ✅ ❌ ❓  |- | 
 
 ## Entertainment
